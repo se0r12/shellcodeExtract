@@ -12,3 +12,4 @@ $ ./shellcodeExtract orw.bin
 ```
 
 これをコピーして`payload`変数とかに`b""`で挟んで使う予定。
+当たり前だが、`pwntool`の方が使い勝手がいい。
